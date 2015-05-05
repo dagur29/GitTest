@@ -8,6 +8,7 @@ int main()
 
     cout << "Hello Mr " << name << endl;
     cout << "Tambourine" << endl;
+    cout << "This is a test" << endl;
 
 	return 0;
 }
